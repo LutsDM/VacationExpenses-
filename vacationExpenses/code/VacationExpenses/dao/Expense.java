@@ -1,4 +1,4 @@
 package VacationExpenses.dao;
 
-public class Expense {
+public interface Expense {
 }
